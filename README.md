@@ -26,7 +26,7 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/Ariyan-crypto/Quizy.git
-cd Quizzy
+cd Quizy
 npm install
 npm run dev
 
